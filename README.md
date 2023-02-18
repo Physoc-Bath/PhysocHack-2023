@@ -19,7 +19,7 @@ https://www.entropicalabs.com/
 ## Python Resources
 https://docs.google.com/document/d/1XqyITHP75sF6j2bIqAMaOxnHnSNZJ6FrmdIw5YaeeDo/edit
 
-##qBraid account
+## qBraid account
 Https://account.qbraid.com/
 
 ## qBraid discord
