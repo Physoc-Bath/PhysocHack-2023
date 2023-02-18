@@ -6,7 +6,7 @@ Welcome to the 2023 Bootcamp's challenge! This challenge was sponsored by Entrop
 I have added a list of resources and links that may be of use to you below.
 Good luck!
 
-##Today's challenge
+## Today's challenge
 https://openqaoa.entropicalabs.com/hackatons/bath-challenge/
  
 ## OpenQAOA documentation
